@@ -1,0 +1,1 @@
+In this project, using the restcountries API, I developed an application that shows the flag, capital, population, language and currency information of the country with the entered country name and also shows its neighbouring countries.
